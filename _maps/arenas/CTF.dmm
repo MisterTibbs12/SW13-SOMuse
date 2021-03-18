@@ -1,0 +1,131 @@
+"aQ" = (/turf/open/floor/plating/asteroid/basalt,/area/awaymission/beach)
+"bt" = (/obj/structure/flora/ausbushes/fullgrass,/obj/structure/flora/ausbushes/grassybush,/turf/open/floor/plating/dirt,/area/awaymission/beach)
+"bR" = (/obj/structure/flora/ausbushes/fullgrass,/obj/structure/flora/ausbushes/ppflowers,/obj/machinery/light{dir = 1},/turf/open/floor/plating/dirt,/area/awaymission/beach)
+"ck" = (/turf/closed/indestructible/sandstone,/area/awaymission/beach)
+"da" = (/obj/machinery/light{dir = 1},/turf/open/floor/plasteel/ship,/area/awaymission/beach)
+"dR" = (/obj/item/gun/energy/laser/E_11,/obj/item/gun/energy/laser/E_11,/obj/item/gun/energy/laser/E_11,/obj/item/gun/energy/laser/E_11,/obj/item/gun/energy/laser/E_11,/obj/item/gun/energy/laser/E_11,/obj/item/gun/energy/laser/E_11,/obj/item/gun/energy/laser/E_11,/obj/item/gun/energy/laser/E_11,/obj/item/gun/energy/laser/E_11,/obj/item/gun/energy/laser/E_11,/obj/item/gun/energy/laser/E_11,/obj/item/gun/energy/laser/E_11,/obj/structure/rack,/turf/open/floor/plasteel/ship,/area/awaymission/beach)
+"dT" = (/obj/structure/flora/tree/jungle,/obj/structure/flora/ausbushes/fullgrass,/obj/structure/flora/ausbushes/fullgrass,/obj/structure/flora/ausbushes/grassybush,/turf/open/floor/plating/dirt,/area/awaymission/beach)
+"eJ" = (/obj/structure/chair/wood{dir = 8},/turf/open/floor/wood,/area/awaymission/beach)
+"eZ" = (/turf/open/floor/plating/beach/coastline_b,/area/awaymission/beach)
+"fF" = (/obj/machinery/light,/turf/open/floor/plating/asteroid/basalt,/area/awaymission/beach)
+"fN" = (/obj/structure/flora/ausbushes/fullgrass,/obj/structure/flora/junglebush/b,/obj/machinery/light{dir = 8},/turf/open/floor/plating/dirt,/area/awaymission/beach)
+"gG" = (/obj/structure/flora/rock,/obj/structure/flora/ausbushes/fullgrass,/turf/open/floor/plating/dirt,/area/awaymission/beach)
+"hx" = (/turf/open/floor/plasteel/ship,/area/awaymission/beach)
+"ig" = (/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/structure/rack,/turf/open/floor/plasteel/ship,/area/awaymission/beach)
+"iS" = (/obj/machinery/vending/boozeomat,/turf/open/floor/wood,/area/awaymission/beach)
+"iZ" = (/obj/machinery/jukebox/shipwide,/turf/open/floor/wood,/area/awaymission/beach)
+"jR" = (/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/structure/rack,/turf/open/floor/plasteel/ship,/area/awaymission/beach)
+"kB" = (/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/structure/rack,/obj/machinery/light{dir = 4},/turf/open/floor/plasteel/ship,/area/awaymission/beach)
+"lf" = (/obj/structure/table/wood,/turf/open/floor/wood,/area/awaymission/beach)
+"lg" = (/obj/machinery/door/airlock/gold,/turf/open/floor/plating/dirt,/area/awaymission/beach)
+"mr" = (/turf/open/floor/mineral/copper,/area/awaymission/beach)
+"mN" = (/obj/machinery/light,/turf/open/lava,/area/awaymission/beach)
+"nM" = (/turf/open/floor/plating/beach/coastline_t{dir = 8},/area/awaymission/beach)
+"oz" = (/obj/structure/rack,/obj/item/reagent_containers/food/drinks/bottle/absinthe/premium,/obj/item/reagent_containers/food/drinks/bottle/absinthe/premium,/turf/open/floor/wood,/area/awaymission/beach)
+"oR" = (/obj/structure/barricade/sandbags,/turf/open/floor/plasteel/ship,/area/awaymission/beach)
+"pq" = (/obj/structure/flora/ausbushes/fullgrass,/obj/structure/flora/ausbushes/fullgrass,/obj/structure/flora/ausbushes/fullgrass,/turf/open/floor/plating/dirt,/area/awaymission/beach)
+"pQ" = (/obj/item/twohanded/ctf/red,/obj/effect/ctf/flag_reset/red,/turf/open/floor/plasteel/ship,/area/awaymission/beach)
+"qh" = (/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/structure/rack,/obj/machinery/light{dir = 8},/turf/open/floor/plasteel/ship,/area/awaymission/beach)
+"sc" = (/turf/closed/wall/mineral/copper,/area/awaymission/beach)
+"st" = (/obj/structure/flora/ausbushes/fernybush,/obj/structure/flora/ausbushes/fullgrass,/turf/open/floor/plating/dirt,/area/awaymission/beach)
+"sD" = (/obj/structure/flora/junglebush/b,/turf/open/floor/plating/dirt,/area/awaymission/beach)
+"tS" = (/obj/structure/flora/ausbushes/fullgrass,/obj/structure/flora/ausbushes/fullgrass,/turf/open/floor/plating/beach/sand,/area/awaymission/beach)
+"tV" = (/turf/closed/indestructible/turbolift,/area/awaymission/beach)
+"ue" = (/obj/structure/flora/ausbushes/fullgrass,/obj/structure/flora/ausbushes/fullgrass,/turf/open/floor/plating/dirt,/area/awaymission/beach)
+"ul" = (/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/structure/rack,/turf/open/floor/plasteel/ship,/area/awaymission/beach)
+"ut" = (/obj/structure/flora/rock,/turf/open/floor/plating/beach/sand,/area/awaymission/beach)
+"uI" = (/obj/structure/chair/wood{dir = 4},/turf/open/floor/wood,/area/awaymission/beach)
+"uM" = (/turf/open/floor/wood,/area/awaymission/beach)
+"uV" = (/obj/structure/flora/tree/jungle,/obj/structure/flora/ausbushes/fullgrass,/turf/open/floor/plating/dirt,/area/awaymission/beach)
+"uW" = (/turf/open/lava,/area/awaymission/beach)
+"vw" = (/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/structure/rack,/turf/open/floor/plasteel/ship,/area/awaymission/beach)
+"wn" = (/obj/structure/flora/junglebush/b,/obj/machinery/light{dir = 1},/turf/open/floor/plating/dirt,/area/awaymission/beach)
+"xz" = (/obj/structure/flora/tree/jungle,/obj/structure/flora/ausbushes/fullgrass,/obj/structure/flora/ausbushes/fullgrass,/turf/open/floor/plating/dirt,/area/awaymission/beach)
+"xY" = (/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/structure/rack,/turf/open/floor/plasteel/ship,/area/awaymission/beach)
+"yc" = (/obj/item/gun/energy/laser/E_11,/obj/item/gun/energy/laser/E_11,/obj/item/gun/energy/laser/E_11,/obj/item/gun/energy/laser/E_11,/obj/item/gun/energy/laser/E_11,/obj/item/gun/energy/laser/E_11,/obj/item/gun/energy/laser/E_11,/obj/item/gun/energy/laser/E_11,/obj/item/gun/energy/laser/E_11,/obj/item/gun/energy/laser/E_11,/obj/item/gun/energy/laser/E_11,/obj/structure/rack,/turf/open/floor/plasteel/ship,/area/awaymission/beach)
+"yv" = (/obj/structure/flora/ausbushes/fullgrass,/obj/structure/flora/ausbushes/ppflowers,/turf/open/floor/plating/dirt,/area/awaymission/beach)
+"yY" = (/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/structure/rack,/turf/open/floor/plasteel/ship,/area/awaymission/beach)
+"AJ" = (/turf/open/floor/plating/beach/coastline_t,/area/awaymission/beach)
+"Bx" = (/obj/structure/flora/ausbushes/fullgrass,/obj/structure/flora/ausbushes/fullgrass,/obj/machinery/light{dir = 1},/turf/open/floor/plating/dirt,/area/awaymission/beach)
+"BX" = (/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/structure/rack,/turf/open/floor/plasteel/ship,/area/awaymission/beach)
+"Ca" = (/turf/open/floor/plating/beach/sand,/area/awaymission/beach)
+"Cg" = (/obj/structure/flora/ausbushes/fullgrass,/obj/structure/flora/ausbushes/fullgrass,/obj/machinery/light{dir = 8},/turf/open/floor/plating/dirt,/area/awaymission/beach)
+"Ci" = (/obj/structure/flora/ausbushes/fullgrass,/obj/structure/flora/ausbushes/fullgrass,/obj/structure/flora/ausbushes/grassybush,/turf/open/floor/plating/dirt,/area/awaymission/beach)
+"Ct" = (/turf/closed/indestructible/rock,/area/awaymission/beach)
+"CW" = (/obj/structure/flora/ausbushes/fullgrass,/obj/structure/flora/ausbushes/grassybush,/obj/structure/flora/ausbushes/ppflowers,/turf/open/floor/plating/dirt,/area/awaymission/beach)
+"Dw" = (/obj/structure/table_frame/wood,/obj/structure/table/wood,/turf/open/floor/wood,/area/awaymission/beach)
+"Dz" = (/obj/machinery/door/airlock/gold,/turf/open/floor/plating/asteroid/basalt,/area/awaymission/beach)
+"Ej" = (/obj/machinery/door/airlock/copper,/turf/open/floor/plating/beach/sand,/area/awaymission/beach)
+"Eu" = (/obj/machinery/capture_the_flag/blue,/turf/open/floor/mineral/copper,/area/awaymission/beach)
+"ED" = (/obj/structure/flora/tree/jungle,/turf/open/floor/plating/beach/sand,/area/awaymission/beach)
+"FN" = (/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/structure/rack,/obj/machinery/light{dir = 8},/turf/open/floor/plasteel/ship,/area/awaymission/beach)
+"FR" = (/turf/closed/indestructible/syndicate,/area/awaymission/beach)
+"Hn" = (/obj/machinery/door/airlock/copper,/turf/open/floor/wood,/area/awaymission/beach)
+"HC" = (/obj/structure/flora/ausbushes/fullgrass,/obj/machinery/light{dir = 8},/turf/open/floor/plating/dirt,/area/awaymission/beach)
+"Ie" = (/obj/structure/flora/ausbushes/fullgrass,/turf/open/floor/plating/dirt,/area/awaymission/beach)
+"Is" = (/obj/machinery/light{dir = 4},/turf/open/floor/plating/asteroid/basalt,/area/awaymission/beach)
+"IC" = (/turf/open/floor/plating/beach/coastline_t/sandwater_inner,/area/awaymission/beach)
+"IM" = (/obj/structure/flora/ausbushes/fullgrass,/obj/machinery/light{dir = 4},/turf/open/floor/plating/dirt,/area/awaymission/beach)
+"Ja" = (/obj/machinery/door/airlock/gold,/turf/open/floor/plasteel/ship,/area/awaymission/beach)
+"Jk" = (/obj/structure/flora/ausbushes/fullgrass,/obj/machinery/light{dir = 1},/turf/open/floor/plating/dirt,/area/awaymission/beach)
+"Jm" = (/obj/structure/trap/ctf/blue,/turf/open/floor/plasteel/ship,/area/awaymission/beach)
+"Lg" = (/obj/structure/rack,/obj/item/reagent_containers/food/drinks/bottle/absinthe/premium,/turf/open/floor/wood,/area/awaymission/beach)
+"NM" = (/turf/open/floor/plating/beach/coastline_t/sandwater_inner{dir = 8},/area/awaymission/beach)
+"Oy" = (/turf/open/floor/plating/beach/coastline_t{dir = 4},/area/awaymission/beach)
+"PK" = (/obj/structure/flora/rock,/obj/machinery/light{dir = 8},/turf/open/floor/plating/beach/sand,/area/awaymission/beach)
+"Qu" = (/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/structure/rack,/obj/machinery/light{dir = 4},/turf/open/floor/plasteel/ship,/area/awaymission/beach)
+"Qx" = (/obj/structure/flora/rock,/obj/structure/flora/ausbushes/fullgrass,/obj/structure/flora/ausbushes/fullgrass,/obj/structure/flora/ausbushes/grassybush,/turf/open/floor/plating/dirt,/area/awaymission/beach)
+"QM" = (/obj/machinery/light{dir = 8},/turf/open/floor/plating/asteroid/basalt,/area/awaymission/beach)
+"Sa" = (/obj/machinery/light{dir = 4},/turf/open/floor/plasteel/ship,/area/awaymission/beach)
+"Sv" = (/obj/structure/flora/ausbushes/fullgrass,/obj/structure/flora/ausbushes/fullgrass,/obj/structure/flora/ausbushes/grassybush,/obj/machinery/light{dir = 1},/turf/open/floor/plating/dirt,/area/awaymission/beach)
+"TG" = (/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/item/gun/energy/laser/a280c,/obj/structure/rack,/obj/machinery/light{dir = 8},/turf/open/floor/plasteel/ship,/area/awaymission/beach)
+"TK" = (/obj/machinery/door/airlock/copper,/turf/open/floor/plasteel/ship,/area/awaymission/beach)
+"TP" = (/obj/structure/flora/rock,/turf/open/floor/plating/asteroid/basalt,/area/awaymission/beach)
+"UO" = (/obj/structure/flora/ausbushes/fullgrass,/obj/structure/flora/ausbushes/grassybush,/obj/structure/flora/ausbushes/grassybush,/turf/open/floor/plating/dirt,/area/awaymission/beach)
+"Wt" = (/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/item/clothing/head/ship/fleethelm,/obj/structure/rack,/obj/machinery/light{dir = 4},/turf/open/floor/plasteel/ship,/area/awaymission/beach)
+"Ww" = (/obj/structure/flora/rock,/obj/structure/flora/ausbushes/fullgrass,/obj/structure/flora/ausbushes/ppflowers,/turf/open/floor/plating/dirt,/area/awaymission/beach)
+"WQ" = (/obj/item/twohanded/ctf/blue,/obj/effect/ctf/flag_reset/blue,/turf/open/floor/mineral/copper,/area/awaymission/beach)
+"Ze" = (/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/item/clothing/suit/armor/vest/republicinf,/obj/structure/rack,/obj/machinery/light{dir = 4},/turf/open/floor/plasteel/ship,/area/awaymission/beach)
+
+(1,1,1) = {"
+FRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFR
+FRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFR
+FRhxhxhxhxhxhxyctVaQaQaQaQaQaQuWaQuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWtVBXhxdahxyYFRFR
+FRhxhxhxhxhxhxyctVQMaQaQaQuWaQaQuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWaQaQaQaQaQuWuWtVBXhxhxhxyYFRFR
+FRhxhxhxhxhxhxyctVaQaQaQaQaQuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWaQuWuWuWuWuWaQuWuWtVFNhxhxhxZeFRFR
+FRhxhxhxhxhxhxyctVaQaQaQaQaQTPaQuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWuWaQaQaQuWuWuWuWaQaQaQtVBXhxhxhxyYFRFR
+FRhxhxhxhxhxhxyctVQMaQaQaQaQaQuWaQaQaQaQuWaQaQTPaQuWuWuWaQaQaQaQaQaQaQaQuWuWuWuWuWuWaQaQaQaQaQuWuWaQaQaQaQaQaQaQaQaQaQaQTPaQaQaQaQaQaQaQaQaQaQIstVBXhxhxhxyYFRFR
+FRhxhxhxhxhxhxyctVaQCtCtCtaQuWaQaQCtaQaQaQaQuWuWuWuWuWaQaQaQaQaQaQTPaQaQaQuWuWaQuWuWuWaQTPaQaQuWuWaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQtVFNhxhxhxZeFRFR
+FRhxhxhxhxhxhxyctVaQaQCtCtCtaQaQaQaQaQaQaQuWaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQuWaQaQuWuWaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQtVBXhxhxhxyYFRFR
+FRhxhxhxhxhxhxyctVaQaQaQaQCtCtaQaQaQuWaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQCtuWuWaQaQaQaQTPaQaQaQaQaQaQaQaQaQCtCtCtaQaQaQaQIstVBXhxhxhxulFRFR
+FRhxhxhxhxhxhxyctVQMaQaQTPaQaQaQaQaQaQaQaQaQaQaQaQTPaQuWaQuWaQaQTPaQaQaQaQCtCtaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQCtCtCtaQaQaQaQaQaQtVBXhxhxhxulFRFR
+FRhxhxhxhxhxhxyctVaQaQaQaQaQaQCtaQaQaQaQaQaQaQaQaQaQuWuWuWuWuWaQaQaQaQaQaQaQaQaQaQaQaQTPaQTPaQaQaQuWuWaQaQaQaQaQaQaQTPaQaQaQCtCtCtaQaQaQaQCtaQaQtVFNhxhxhxulFRFR
+FRhxhxhxhxhxhxyctVaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQuWuWuWmNuWuWuWuWfFaQaQaQaQaQaQaQfFaQaQaQaQfFaQaQuWuWaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQCtCtaQtVBXhxhxhxulFRFR
+FRhxhxhxhxhxhxyctVaQaQaQaQaQaQaQaQTPaQaQaQaQaQuWuWuWuWCtCtCtCtCtCtCtCtCtCtTKTKCtCtCtCtCtCtCtCtCtCtuWuWuWuWuWaQaQaQaQaQaQaQaQaQaQaQaQaQaQTPaQaQaQtVFNhxhxhxWtFRFR
+FRhxhxhxhxhxhxyctVQMaQaQaQaQaQTPaQaQaQaQaQuWuWuWuWuWuWCthxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxCtuWuWuWuWuWaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQaQIstVBXhxhxhxulFRFR
+FRhxhxhxhxhxhxyctVaQaQaQaQaQaQfFaQaQaQuWuWuWmNuWuWuWuWCthxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxCtuWuWuWuWaQfFTPaQaQaQaQaQaQfFaQTPaQaQfFaQaQaQaQtVTGhxhxhxulFRFR
+FRtVtVtVtVlglgtVtVtVJaJaCtCtCtCtCtCtCtCtCtCtCtCtCtCtCtCthxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxCtCtCtCtCtCtCtCtCtCtCtCtCtCtCtCtCtCtCtCtCtDzDztVtVtVtVhxhxtVFRFR
+FRhxhxhxhxhxhxlghxhxhxhxhxhxhxoRhxhxhxhxhxhxoRhxhxhxhxhxhxhxhxhxscscscscscscscscscscscschxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxoRhxhxhxoRhxhxmrmrmrmrJmlghxhxhxFRFR
+FRhxhxhxhxhxhxlghxhxhxhxhxhxhxoRhxhxhxhxhxhxoRhxhxhxhxhxhxhxhxscuMDwoziSoziZuMozozLglfuMschxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxoRhxhxhxoRhxhxmrmrmrmrJmlghxhxhxFRFR
+FRhxhxhxhxhxhxtVhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxscuMDwuMuMuMuMuMuMuMuMlfuMschxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxmrmrmrmrJmtVhxhxhxFRFR
+FRhxhxhxhxhxhxtVhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxscuMlflflflflfuMuMlflflfuMschxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxmrmrmrmrJmtVhxhxSaFRFR
+FRhxhxhxhxhxhxlgpQhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxHnuMuMuMuMuMuMuMuMuMuMuMuMHnhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxmrWQmrEuJmlghxhxhxFRFR
+FRhxhxhxhxhxhxtVhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxscuMuMuMuMuMuMuMuMuMuMuMuMschxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxmrmrmrmrJmtVhxhxSaFRFR
+FRhxhxhxhxhxhxtVhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxscuIlfeJuIlfeJuMlfeJuIlfeJschxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxmrmrmrmrJmtVhxhxhxFRFR
+FRhxhxhxhxhxhxlghxhxhxhxhxhxhxoRhxhxhxhxhxhxoRhxhxhxhxhxhxhxhxscuMuMuMuMuMuMuMuMuMuMuMuMschxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxoRhxhxhxoRhxhxmrmrmrmrJmlghxhxhxFRFR
+FRhxhxhxhxhxhxlghxhxhxhxhxhxhxoRhxhxhxhxhxhxoRhxhxhxhxhxhxhxhxhxscscscscscscscscscscscschxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxoRhxhxhxoRhxhxmrmrmrmrJmlghxhxhxFRFR
+FRtVtVtVtVlglgtVtVtVJaJackckckckckckckckckckckckckckckckhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxckckckckckckckckckckckckckckckckckckckckcklglgtVtVtVtVhxhxtVFRFR
+FRhxhxhxhxhxhxdRtVIeIeIeJkIeIeIeJkueueueBxueIeIeJkIeIeckhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxckbtUOJkIeIeueSvbtIeIeJkueIeIeJkIeIeIeJkIeIeIehxtVighxhxhxxYFRFR
+FRhxhxhxhxhxhxdRtVHCIeIeCWbtbtIeIesDueueueueIeIeIeIeIeckhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxhxckIeIebtbtbtueueIegGbtbtueIeIeIegGIeIeIeIeIeIehxtVqhhxhxhxxYFRFR
+FRhxhxhxhxhxhxdRtVIeIeIebtbtbtIeIeueueueueueIebtbtIeIMckckckckckckckckckckEjEjckckckckckckckckckckfNIeIeIeIeueueIeIeCiCipqueueueCiueueueCiCiueSatVighxhxhxxYFRFR
+FRhxhxhxhxhxhxdRtVHCIeIeIeCiQxueIeueueueCidTIebtbtIeIeIeIeIeIeJkIeIebtwnuetStSpqbRIeIeIeJkIeIeIegGIeueueueuexzueIebtCiCiueueueCibtIeIegGIeIeIehxtVighxhxhxkBFRFR
+FRhxhxhxhxhxhxdRtVIeIeIeIeCiCiCistueueueueuegGIeIeIeIebtIeIeIeIebtbtbtIeIeCaCaIeueCiCiueueueueCiCiueueueCibtIeIeWwbtCiCixzueueCibtIeIeueueIeIehxtVighxhxhxxYFRFR
+FRhxhxhxhxhxhxdRtVIeIeIeIebtbtbtgGuexzueueueIeIeIeuVIeyvsDIeIeIebtbtIeIeCaCaCaCaIebtbtIeIeIeIegGueueuexzueIeIeIeIeIeueueueueueueIeIegGueueueuehxtVqhhxhxhxvwFRFR
+FRhxhxhxhxhxhxdRtVIeIeCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaEDCaCaCaCaCaCaCaCaCaCaCaCaCaEDCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaIeIeIeIeSatVighxhxhxjRFRFR
+FRhxhxhxhxhxhxdRtVCgIeEDICAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJNMCaCaIeIeIehxtVighxhxhxjRFRFR
+FRhxhxhxhxhxhxdRtVIeutCaOyeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZnMCaCaCauVIehxtVqhhxhxhxQuFRFR
+FRhxhxhxhxhxhxdRtVCaCaCaOyeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZnMCaCaCaCaCahxtVighxhxhxjRFRFR
+FRhxhxhxhxhxhxdRtVPKCaCaOyeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZeZnMCaCaCaCaCaSatVighxhxhxjRFRFR
+FRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFR
+FRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFRFR
+"}

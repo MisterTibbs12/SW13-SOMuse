@@ -1,0 +1,75 @@
+"a" = (/turf/closed/indestructible/syndicate,/area/awaymission/beach)
+"c" = (/obj/machinery/capture_the_flag/red,/turf/open/floor/plasteel/ship,/area/awaymission/beach)
+"e" = (/turf/open/floor/plating/beach/coastline_t{dir = 4},/area/awaymission/beach)
+"h" = (/obj/structure/chair/wood{dir = 8},/turf/open/floor/wood,/area/awaymission/beach)
+"i" = (/turf/open/floor/plating/beach/sand,/area/awaymission/beach)
+"j" = (/turf/closed/wall/steel,/area/awaymission/beach)
+"k" = (/obj/machinery/door/airlock/copper,/turf/open/floor/plating/beach/sand,/area/awaymission/beach)
+"m" = (/obj/structure/table/wood,/turf/open/floor/wood,/area/awaymission/beach)
+"p" = (/turf/closed/indestructible/sandstone,/area/awaymission/beach)
+"q" = (/obj/structure/rack,/obj/item/reagent_containers/food/drinks/bottle/absinthe/premium,/obj/item/reagent_containers/food/drinks/bottle/absinthe/premium,/turf/open/floor/wood,/area/awaymission/beach)
+"r" = (/turf/open/floor/plasteel/ship,/area/awaymission/beach)
+"t" = (/obj/structure/barricade/sandbags,/turf/open/floor/plasteel/ship,/area/awaymission/beach)
+"w" = (/turf/open/floor/plating/beach/coastline_t,/area/awaymission/beach)
+"x" = (/obj/structure/rack,/obj/item/reagent_containers/food/drinks/bottle/absinthe/premium,/turf/open/floor/wood,/area/awaymission/beach)
+"y" = (/turf/open/floor/plating/asteroid/basalt,/area/awaymission/beach)
+"z" = (/turf/closed/wall/mineral/copper,/area/awaymission/beach)
+"B" = (/obj/structure/table_frame/wood,/obj/structure/table/wood,/turf/open/floor/wood,/area/awaymission/beach)
+"C" = (/turf/open/floor/mineral/copper,/area/awaymission/beach)
+"D" = (/obj/machinery/vending/boozeomat,/turf/open/floor/wood,/area/awaymission/beach)
+"E" = (/turf/open/floor/plating/beach/coastline_t/sandwater_inner,/area/awaymission/beach)
+"F" = (/turf/closed/wall/r_wall/ship,/area/awaymission/beach)
+"G" = (/turf/open/floor/plating/beach/coastline_t{dir = 8},/area/awaymission/beach)
+"J" = (/obj/machinery/jukebox/shipwide,/turf/open/floor/wood,/area/awaymission/beach)
+"K" = (/obj/machinery/capture_the_flag/blue,/turf/open/floor/mineral/copper,/area/awaymission/beach)
+"L" = (/turf/open/floor/wood,/area/awaymission/beach)
+"N" = (/obj/structure/chair/wood{dir = 4},/turf/open/floor/wood,/area/awaymission/beach)
+"Q" = (/turf/open/floor/plating/beach/coastline_t/sandwater_inner{dir = 8},/area/awaymission/beach)
+"R" = (/turf/open/floor/plating/beach/coastline_b,/area/awaymission/beach)
+"T" = (/obj/machinery/door/airlock/copper,/turf/open/floor/plasteel/ship,/area/awaymission/beach)
+"U" = (/obj/machinery/door/airlock/copper,/turf/open/floor/wood,/area/awaymission/beach)
+"V" = (/turf/open/lava,/area/awaymission/beach)
+"Z" = (/turf/closed/indestructible/rock,/area/awaymission/beach)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ajFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFa
+ajrrrrrrrrrryyyVyVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVrrrrrFa
+ajrrrrrrrrrryVyyVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVyyyyyVVVrrrrrFa
+ajrrrrrrrrrryyVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVyVVVVVyVVVrrrrrFa
+ajrrrrrrrrrryyyyVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVyyyVVVVyyyVrrrrrFa
+ajrrrrrrrrrryyyVyyyyVyyyyVVVyyyyyyyyVVVVVVyyyyyVVyyyyyyyyyyyyyyyyyyyyyyyyrrrrrFa
+ajrrrrrrrrrryyVyyyyyyyVVVVVyyyyyyyyyyVVyVVVyyyyVVyyyyyyyyyyyyyyyyyyyyyyyyrrrrrFa
+ajrrrrrrrrrryyyyyyyyyVyyyyyyyyyyyyyyyyVyyVVyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyrrrrrFa
+ajrrrrrrrrrryyyyyyVyyyyyyyyyyyyyyyyyyyyyyyyyyyyyVVyyyyyyyyyyyyyyyyyyyyyyyrrrrrFa
+ajrrrrrrrrrryyyyyyyyyyyyyyyVyVyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyrrrrrFa
+ajrrrrrrrrrryyyyyyyyyyyyyyVVVVVyyyyyyyyyyyyyyyyyyVVyyyyyyyyyyyyyyyyyyyyyyrrrrrFa
+ajrrrrrrrrrryyyyyyyyyyyyyVVVVVVVVyyyyyyyyyyyyyyyyVVyyyyyyyyyyyyyyyyyyyyyyrrrrrFa
+ajrrrrrrrrrryyyyyyyyyyyVVVVZZZZZZZZZZTTZZZZZZZZZZVVVVVyyyyyyyyyyyyyyyyyyyrrrrrFa
+ajrrrrrrrrrryyyyyyyyyVVVVVVZrrrrrrrrrrrrrrrrrrrrZVVVVVyyyyyyyyyyyyyyyyyyyrrrrrFa
+ajrrrrrrrrrryyyyyyyVVVVVVVVZrrrrrrrrrrrrrrrrrrrrZVVVVyyyyyyyyyyyyyyyyyyyyrrrrrFa
+ajrrrrrrrrrrZZZZZZZZZZZZZZZZrrrrrrrrrrrrrrrrrrrrZZZZZZZZZZZZZZZZZZZZZZZZZrrrrrFa
+ajrrrrrrrrrrrrrtrrrrrrtrrrrrrrrrzzzzzzzzzzzzrrrrrrrrrrrrrrrrrrtrrrtrrCCCCrrrrrFa
+ajrrrrrrrrrrrrrtrrrrrrtrrrrrrrrzLBqDqJLqqxmLzrrrrrrrrrrrrrrrrrtrrrtrrCCCCrrrrrFa
+ajrrrrrrrrrrrrrrrrrrrrrrrrrrrrrzLBLLLLLLLLmLzrrrrrrrrrrrrrrrrrrrrrrrrCCCCrrrrrFa
+ajrrrrrrrrrrrrrrrrrrrrrrrrrrrrrzLmmmmmLLmmmLzrrrrrrrrrrrrrrrrrrrrrrrrCCCCrrrrrFa
+ajrrrcrrrrrrrrrrrrrrrrrrrrrrrrrULLLLLLLLLLLLUrrrrrrrrrrrrrrrrrrrrrrrrCKCCrrrrrFa
+ajrrrrrrrrrrrrrrrrrrrrrrrrrrrrrzLLLLLLLLLLLLzrrrrrrrrrrrrrrrrrrrrrrrrCCCCrrrrrFa
+ajrrrrrrrrrrrrrrrrrrrrrrrrrrrrrzNmhNmhLmhNmhzrrrrrrrrrrrrrrrrrrrrrrrrCCCCrrrrrFa
+ajrrrrrrrrrrrrrtrrrrrrtrrrrrrrrzLLLLLLLLLLLLzrrrrrrrrrrrrrrrrrtrrrtrrCCCCrrrrrFa
+ajrrrrrrrrrrrrrtrrrrrrtrrrrrrrrrzzzzzzzzzzzzrrrrrrrrrrrrrrrrrrtrrrtrrCCCCrrrrrFa
+ajrrrrrrrrrrpppppppppppppppprrrrrrrrrrrrrrrrrrrrppppppppppppppppppppppppprrrrrFa
+ajrrrrrrriiiiiiiiiiiiiiiiiiprrrrrrrrrrrrrrrrrrrrpiiiiiiiiiiiiiiiiiiiiiirrrrrrrFa
+ajrrrrrrriiiiiiiiiiiiiiiiiiprrrrrrrrrrrrrrrrrrrrpiiiiiiiiiiiiiiiiiiiiiirrrrrrrFa
+ajrrrrrrriiiiiiiiiiiiiiiiiippppppppppkkppppppppppiiiiiiiiiiiiiiiiiiiiiirrrrrrrFa
+ajrrrrrrriiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiirrrrrrrFa
+ajrrrrrrriiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiirrrrrrrFa
+ajrrrrrrriiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiirrrrrrrFa
+ajrrrrrrriiiEwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwQiiiiirrrrrrrFa
+ajrrrrrrriiieRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRGiiiiirrrrrrrFa
+ajrrrrrrriiieRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRGiiiiirrrrrrrFa
+ajrrrrrrriiieRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRGiiiiirrrrrrrFa
+ajrrrrrrriiieRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRGiiiiirrrrrrrFa
+aFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}
